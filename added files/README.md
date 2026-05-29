@@ -100,6 +100,8 @@ tests/ └── test_api.py
 
 ## Notes
 
+
 -   Swagger UI is available at /docs
 -   API uses SQLite database
 -   user_id is assigned using current_user when authenticated
+  
